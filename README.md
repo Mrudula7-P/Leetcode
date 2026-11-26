@@ -27,4 +27,12 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Mrudula7-P/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Math
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Mrudula7-P/Leetcode/tree/master/3360-stone-removal-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Mrudula7-P/Leetcode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
